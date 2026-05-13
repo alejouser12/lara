@@ -1,0 +1,5 @@
+mkdir -p storage/framework/views storage/framework/cache/data storage/framework/sessions storage/app/public
+touch storage/framework/views/.gitkeep
+touch storage/framework/cache/data/.gitkeep
+touch storage/framework/sessions/.gitkeep
+touch storage/app/public/.gitkeep
